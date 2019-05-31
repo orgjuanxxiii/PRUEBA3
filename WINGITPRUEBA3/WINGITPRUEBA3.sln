@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WINGITPRUEBA3", "WINGITPRUEBA3\WINGITPRUEBA3.csproj", "{E1AE0D2B-282C-439E-A1C8-7376DE9B191D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE0D2B-282C-439E-A1C8-7376DE9B191D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE0D2B-282C-439E-A1C8-7376DE9B191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE0D2B-282C-439E-A1C8-7376DE9B191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE0D2B-282C-439E-A1C8-7376DE9B191D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E79EB9-C081-44D6-8540-DA4716789A31}
+	EndGlobalSection
+EndGlobal
